@@ -1,5 +1,5 @@
 # w_calculator
-Calculator for angular correlation coefficients, for use in gamma ray spectroscopy. Written because there isn't an obvious resource online for quick calculation of Clebsch-Gordan, Racah, F- and A-coefficients relevant to gamma-gamma angular correlation measurements. Doesn't require anything other than the w_calculator.C file. Feel free to copy and edit your own version.
+Calculator for angular correlation coefficients, for use in gamma ray spectroscopy. Written because there isn't an obvious resource online for quick calculation of Clebsch-Gordan, Racah, F- and A-coefficients (A2, A4 normalised to A0=1) relevant to gamma-gamma angular correlation measurements. Doesn't require anything other than the w_calculator.C file. Feel free to copy and edit your own version.
 
 
 Copy-and-pasted from inside the .C file, explaining roughly what it contains:
